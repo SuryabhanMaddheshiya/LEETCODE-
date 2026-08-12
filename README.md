@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
