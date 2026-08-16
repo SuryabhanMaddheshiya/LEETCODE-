@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0067-add-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
