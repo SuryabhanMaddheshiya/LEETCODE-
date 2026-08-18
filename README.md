@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0055-jump-game) |
 ## Manacher
 |  |
 | ------- |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
