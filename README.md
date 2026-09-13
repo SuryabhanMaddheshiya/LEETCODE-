@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0078-subsets) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0078-subsets) |
 ## String Matching
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
