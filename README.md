@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0078-subsets) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0090-subsets-ii) |
 ## String Matching
