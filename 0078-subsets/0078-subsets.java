@@ -15,6 +15,7 @@ class Solution {
         rec(arr, i+1,curr,ans);
         curr.remove(curr.size()-1);
         rec(arr,i+1,curr,ans);
+        // vghffgh
 
     }
 }
