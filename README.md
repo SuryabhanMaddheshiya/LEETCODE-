@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
