@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0090-subsets-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0064-minimum-path-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
