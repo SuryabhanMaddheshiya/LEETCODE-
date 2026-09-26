@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0090-subsets-ii) |
 | [1732-find-the-highest-altitude](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0836-rectangle-overlap) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
