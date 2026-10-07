@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0066-plus-one) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0836-rectangle-overlap) |
@@ -175,5 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/SuryabhanMaddheshiya/LEETCODE-/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
